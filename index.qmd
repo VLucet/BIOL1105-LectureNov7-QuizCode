@@ -1,0 +1,23 @@
+---
+title: "Quiz Code"
+format: html
+engine: knitr
+filters:
+  - webr
+---
+
+## Question 7
+
+```{webr-r}
+binom.test(16, 20, 0.5)
+```
+
+## Question 8
+
+```{webr-r}
+head(mtcars)
+```
+
+```{webr-r}
+head(cor.test(mtcars$wt, mtcras$mpg))
+```
