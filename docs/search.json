@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "proj",
+    "title": "Quiz Code",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Please enable JavaScript to experience the dynamic code cell content on this page."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html#question-7",
+    "href": "index.html#question-7",
+    "title": "Quiz Code",
     "section": "",
-    "text": "About this site"
+    "text": "Please enable JavaScript to experience the dynamic code cell content on this page."
+  },
+  {
+    "objectID": "index.html#question-8",
+    "href": "index.html#question-8",
+    "title": "Quiz Code",
+    "section": "Question 8",
+    "text": "Question 8\n\nPlease enable JavaScript to experience the dynamic code cell content on this page.\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
   }
 ]
