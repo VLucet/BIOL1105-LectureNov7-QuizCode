@@ -19,5 +19,5 @@ head(mtcars)
 ```
 
 ```{webr-r}
-head(cor.test(mtcars$wt, mtcras$mpg))
+head(cor.test(mtcars$wt, mtcars$mpg))
 ```
